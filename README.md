@@ -1,2 +1,3 @@
 # Sensor-Fault-Prediction
-This project is focused on 
+
+The Air Pressure System (APS) is a vital component of heavy-duty vehicles, where compressed air is used to push the piston that delivers pressure to the brake pads in order to stop the vehicle, as well as in their gear systems. The benefit of an APS over a hydraulic system is that air from nature is readily available and sustainable. We have data derived from Scania heavy-duty vehicles accessible in the UCI machine learning repository. It includes of truck failures that occurred during operation. The difficulty is in predicting the failure of the Air Pressure System (APS) in Scania trucks in order to prevent failures during truck operation, which might result in expensive maintenance costs.
